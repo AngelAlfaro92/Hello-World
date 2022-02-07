@@ -1,4 +1,4 @@
-# Hello-World
+# Hola Mundo.
 Este es mi primer repositorio para aprender GitHub
 
 Autor: Jose Angel Alfaro
